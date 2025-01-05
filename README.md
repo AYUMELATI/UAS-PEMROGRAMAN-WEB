@@ -36,4 +36,3 @@ Contoh :
 - **index** : halaman utama aplikasi
 - **profile** : gaya untuk halaman website profil
 - **save_profile** : gaya untuk mengambil data dari form, mengunggah foto, memindah file foto, dan menyimpan data ke database
-- 
