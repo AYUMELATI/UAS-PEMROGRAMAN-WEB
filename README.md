@@ -7,12 +7,12 @@ Laporan minggu ke3 uas pemrograman web
 Jelaskan secara detail mengenai proyek anda, termasuk : 
 - Tujuan proyek
   Web profil kelas dirancang untuk menjadi representasi digital sebuah kelas, baik di tingkat sekolah, universitas, atau pelatihan khusus. Tujuannya adalah untuk:
-  a. Memperkenalkan identitas kelas, seperti nama, email, atau hobi.
-  b. Menampilkan  informasi penting terkait data pribadi seseorang.
-  c. Mempererat hubungan antaranggota kelas melalui dokumentasi dan interaksi online.
+  - Memperkenalkan identitas kelas, seperti nama, email, atau hobi. 
+  - Menampilkan  informasi penting terkait data pribadi seseorang.
+  - Mempererat hubungan antaranggota kelas melalui dokumentasi dan interaksi online.
 - Masalah yang Ingin Diselesaikan:
-  a. Kurangnya Dokumentasi Terpusat: Mengatasi masalah penyimpanan dan akses informasi terkait kelas.
-  b. Identitas Digital Kelas yang Kurang Menonjol: Membantu kelas memiliki platform digital yang profesional untuk menunjukkan keunikan dan pencapaiannya.
+  - Kurangnya Dokumentasi Terpusat: Mengatasi masalah penyimpanan dan akses informasi terkait kelas.
+  - Identitas Digital Kelas yang Kurang Menonjol: Membantu kelas memiliki platform digital yang profesional untuk menunjukkan keunikan dan pencapaiannya.
 
 ## Cara Instalasi dan Penggunaan
 Berikan langkah-langkah untuk menginstal dan menjalankan proyek anda.
